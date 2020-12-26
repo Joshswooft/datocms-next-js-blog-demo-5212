@@ -80,3 +80,11 @@ http://localhost:3000/api/preview?secret=<secret>
 - `<slug>` should be the post's `slug` attribute (you can check on DatoCMS).
 
 You should now be able to see the updated title. To exit the preview mode, you can click **Click here to exit preview mode** at the top.
+
+### Roadmap 🚀
+
+- [ ] Convert Existing pages to typescript
+- [ ] Add Homepage
+- [ ] Add hamburger menu
+- [ ] Finish off word square blog
+- [ ] Add more blogs
