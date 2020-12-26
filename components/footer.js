@@ -6,7 +6,7 @@ export default function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <p className="tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            dandobusiness@gmail.com
+            dandobusiness[at]gmail.com
           </p>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <p className="tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
@@ -15,7 +15,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <p className="tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-              (+44)7724531863
+              ©Copyright 2020
             </p>
           </div>
         </div>
